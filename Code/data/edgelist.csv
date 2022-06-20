@@ -1,0 +1,1152 @@
+source,target,edgetype
+105,91,child
+83,103,cousin
+24,104,grandparent
+82,58,niece / nephew
+77,75,sibling
+93,74,child
+3,92,grandparent
+72,74,sibling
+91,101,cousin
+84,102,cousin
+42,24,household
+90,28,child
+13,59,parent
+91,3,grandchild
+96,99,work
+91,98,work
+28,90,parent
+69,16,child
+22,21,sibling
+93,88,household
+88,95,sister / brother-in-law
+81,34,child
+102,85,child
+63,64,sibling
+85,95,work
+4,25,neighbor
+80,54,child
+85,13,grandchild
+35,36,sibling
+73,82,parent
+86,88,sibling
+35,12,mother / father-in-law
+87,104,cousin
+33,46,neighbor
+34,87,neighbor
+82,103,cousin
+83,90,work
+60,13,child
+99,90,work
+101,82,cousin
+93,0,grandchild
+95,102,cousin
+17,71,parent
+21,20,sibling
+90,101,cousin
+61,19,neighbor
+63,14,child
+102,92,cousin
+54,34,household
+68,16,child
+60,52,neighbor
+60,63,neighbor
+13,97,grandparent
+88,42,child
+68,67,sibling
+101,85,child
+97,99,sibling
+19,77,parent
+87,7,grandchild
+82,104,cousin
+38,88,neighbor
+95,21,child
+94,85,sister / brother-in-law
+30,91,aunt / uncle
+84,105,cousin
+74,93,parent
+18,93,grandparent
+32,3,child
+72,94,aunt / uncle
+72,83,aunt / uncle
+103,93,household
+94,81,work
+11,52,parent
+33,60,sister / brother-in-law
+27,2,child
+89,80,work
+83,60,child
+9,89,grandparent
+90,88,work
+90,99,work
+91,81,partner
+4,99,grandparent
+85,98,work
+91,92,sibling
+57,59,sibling
+91,14,grandchild
+88,83,work
+80,86,work
+98,97,work
+88,23,niece / nephew
+83,82,work
+93,96,work
+69,36,neighbor
+98,4,grandchild
+102,63,grandchild
+0,22,parent
+58,84,parent
+20,93,aunt / uncle
+31,3,child
+21,72,sister / brother-in-law
+5,35,parent
+102,84,cousin
+26,25,sibling
+73,60,partner
+74,85,daughter / son-in-law
+89,102,cousin
+103,92,cousin
+41,87,aunt / uncle
+91,103,cousin
+89,99,work
+3,30,parent
+97,57,child
+87,83,work
+104,105,school
+81,97,work
+42,104,grandparent
+103,24,grandchild
+88,87,sibling
+47,49,sibling
+101,74,grandchild
+101,63,grandchild
+87,54,neighbor
+95,81,work
+21,90,aunt / uncle
+101,93,cousin
+77,78,sibling
+90,80,work
+62,63,sibling
+91,104,cousin
+12,54,parent
+89,29,niece / nephew
+32,105,grandparent
+102,101,school
+86,93,sister / brother-in-law
+86,103,cousin
+7,42,parent
+105,88,cousin
+86,89,work
+41,42,sibling
+85,14,grandchild
+42,88,parent
+12,7,neighbor
+104,21,grandchild
+72,60,sister / brother-in-law
+13,99,grandparent
+34,54,household
+99,93,work
+30,48,sister / brother-in-law
+83,93,work
+17,87,neighbor
+90,21,niece / nephew
+89,105,cousin
+81,12,grandchild
+58,63,household
+76,78,sibling
+28,22,partner
+74,95,parent
+61,63,sibling
+95,18,grandchild
+91,31,niece / nephew
+90,104,cousin
+21,102,grandparent
+9,47,parent
+23,42,sister / brother-in-law
+87,24,child
+74,73,sibling
+86,41,niece / nephew
+85,103,cousin
+86,90,work
+12,35,daughter / son-in-law
+0,90,grandparent
+23,87,aunt / uncle
+59,13,child
+47,30,partner
+29,32,sibling
+35,5,child
+24,41,sister / brother-in-law
+88,1,grandchild
+5,81,grandparent
+54,12,child
+24,7,mother / father-in-law
+93,101,cousin
+88,96,work
+53,52,sibling
+84,63,child
+91,105,household
+21,95,parent
+56,96,parent
+21,0,child
+32,29,sibling
+82,93,work
+96,83,work
+6,38,parent
+74,103,grandparent
+27,28,sibling
+57,82,aunt / uncle
+101,102,household
+85,102,household
+105,91,cousin
+1,26,parent
+54,80,parent
+85,94,sister / brother-in-law
+82,72,niece / nephew
+85,84,sibling
+32,81,daughter / son-in-law
+93,104,parent
+91,61,niece / nephew
+7,24,daughter / son-in-law
+88,86,work
+80,89,work
+82,90,work
+99,96,work
+81,92,sister / brother-in-law
+93,99,work
+37,35,sibling
+61,92,aunt / uncle
+7,88,grandparent
+32,92,parent
+60,59,sibling
+10,50,parent
+45,44,sibling
+31,29,sibling
+103,104,household
+102,87,cousin
+34,12,mother / father-in-law
+105,81,household
+74,88,daughter / son-in-law
+97,81,work
+104,91,cousin
+73,74,sibling
+60,58,neighbor
+39,38,sibling
+75,78,sibling
+92,3,grandchild
+24,23,sibling
+58,102,grandparent
+86,105,cousin
+98,91,work
+87,86,work
+99,98,sibling
+59,58,sibling
+96,35,child
+82,96,work
+48,9,child
+96,86,work
+58,82,aunt / uncle
+101,85,cousin
+21,74,household
+96,54,niece / nephew
+90,83,work
+78,77,sibling
+56,35,partner
+92,103,cousin
+29,91,aunt / uncle
+102,95,cousin
+85,61,niece / nephew
+103,93,child
+12,81,grandparent
+24,42,partner
+93,80,work
+102,58,grandchild
+61,84,aunt / uncle
+60,72,sister / brother-in-law
+18,72,parent
+87,88,sibling
+88,38,neighbor
+21,28,sister / brother-in-law
+80,5,grandchild
+81,91,work
+63,85,parent
+31,32,sibling
+32,61,sister / brother-in-law
+16,67,parent
+33,97,parent
+94,0,grandchild
+60,18,mother / father-in-law
+103,87,cousin
+95,74,child
+94,95,work
+21,103,grandparent
+66,67,sibling
+3,89,grandparent
+89,83,work
+15,9,neighbor
+19,75,parent
+56,54,sibling
+87,89,work
+14,63,parent
+83,96,work
+64,63,sibling
+104,87,niece / nephew
+62,91,parent
+105,34,grandchild
+101,58,grandchild
+93,104,cousin
+90,86,work
+73,94,aunt / uncle
+34,80,parent
+101,16,neighbor
+86,104,aunt / uncle
+13,57,parent
+34,36,sibling
+94,74,child
+91,85,work
+8,45,parent
+56,55,sibling
+105,83,cousin
+52,11,child
+13,83,grandparent
+99,4,grandchild
+87,102,cousin
+52,53,sibling
+99,88,work
+103,88,household
+90,27,niece / nephew
+31,62,sister / brother-in-law
+67,16,child
+30,9,mother / father-in-law
+82,101,cousin
+94,98,work
+2,90,grandparent
+32,62,partner
+97,33,child
+56,12,child
+86,6,neighbor
+88,103,household
+75,19,child
+92,61,niece / nephew
+104,83,cousin
+85,95,partner
+93,102,aunt / uncle
+87,93,sister / brother-in-law
+24,26,sibling
+66,86,neighbor
+88,80,work
+98,94,work
+104,24,grandchild
+84,58,child
+20,22,sibling
+73,21,sister / brother-in-law
+84,103,cousin
+82,88,work
+96,89,work
+27,22,sister / brother-in-law
+30,62,sister / brother-in-law
+85,101,parent
+34,5,child
+33,58,sister / brother-in-law
+49,48,sibling
+101,88,cousin
+105,86,cousin
+33,13,mother / father-in-law
+104,93,household
+88,104,cousin
+83,78,neighbor
+24,87,parent
+101,84,niece / nephew
+23,24,sibling
+74,21,household
+23,1,child
+95,20,niece / nephew
+0,93,grandparent
+99,80,work
+85,63,child
+102,94,niece / nephew
+88,102,cousin
+93,83,work
+83,101,cousin
+95,101,household
+81,94,work
+95,98,work
+50,51,sibling
+1,86,grandparent
+7,12,neighbor
+0,20,parent
+38,40,sibling
+91,29,niece / nephew
+32,64,sister / brother-in-law
+38,6,child
+27,90,aunt / uncle
+59,82,aunt / uncle
+26,23,sibling
+103,90,cousin
+92,31,niece / nephew
+105,103,school
+54,87,neighbor
+89,86,work
+84,101,aunt / uncle
+35,56,partner
+35,55,sister / brother-in-law
+94,20,niece / nephew
+69,67,sibling
+35,34,sibling
+30,92,aunt / uncle
+18,83,grandparent
+82,80,work
+83,88,work
+34,81,parent
+88,7,grandchild
+105,81,child
+83,99,work
+60,73,partner
+15,65,parent
+31,91,aunt / uncle
+84,14,grandchild
+82,59,niece / nephew
+101,91,cousin
+62,61,sibling
+96,5,grandchild
+19,22,neighbor
+14,92,grandparent
+13,60,parent
+87,103,aunt / uncle
+102,90,cousin
+104,103,school
+54,35,sister / brother-in-law
+2,28,parent
+86,87,work
+93,86,work
+58,59,sibling
+88,41,niece / nephew
+22,19,neighbor
+97,95,work
+63,73,neighbor
+73,83,parent
+88,93,partner
+20,94,aunt / uncle
+82,99,work
+74,18,child
+84,61,niece / nephew
+103,82,cousin
+103,93,cousin
+90,102,cousin
+4,97,grandparent
+40,38,sibling
+85,101,cousin
+96,99,neighbor
+4,33,parent
+104,86,cousin
+98,95,work
+35,37,sibling
+65,15,child
+87,41,niece / nephew
+98,13,grandchild
+48,47,sibling
+85,74,mother / father-in-law
+81,54,child
+94,101,aunt / uncle
+46,57,neighbor
+49,9,child
+83,59,niece / nephew
+93,73,niece / nephew
+21,93,parent
+78,19,child
+91,81,household
+16,85,neighbor
+73,18,child
+74,101,grandparent
+1,88,grandparent
+102,82,cousin
+102,93,cousin
+4,98,grandparent
+105,89,cousin
+1,24,parent
+29,30,sibling
+58,61,sister / brother-in-law
+102,101,sibling
+40,6,child
+19,78,parent
+57,60,sibling
+94,102,aunt / uncle
+18,21,daughter / son-in-law
+6,86,neighbor
+95,102,household
+80,87,work
+81,95,work
+99,83,work
+88,105,cousin
+18,94,grandparent
+3,51,neighbor
+97,13,grandchild
+98,99,sibling
+70,44,neighbor
+83,104,cousin
+7,86,grandparent
+89,30,child
+60,57,sibling
+77,76,sibling
+90,89,work
+55,56,sibling
+45,8,child
+58,62,sister / brother-in-law
+91,102,cousin
+5,36,parent
+21,85,daughter / son-in-law
+14,58,daughter / son-in-law
+86,101,cousin
+104,89,cousin
+13,33,daughter / son-in-law
+41,88,aunt / uncle
+103,88,child
+75,76,sibling
+88,24,child
+42,86,parent
+88,86,sibling
+93,88,work
+36,5,child
+25,23,sibling
+87,105,cousin
+30,47,partner
+54,55,sibling
+103,74,grandchild
+21,73,sister / brother-in-law
+89,103,cousin
+22,27,sister / brother-in-law
+101,94,cousin
+101,83,cousin
+104,88,household
+7,41,parent
+95,94,sibling
+103,84,cousin
+44,8,child
+57,73,sister / brother-in-law
+14,84,grandparent
+97,98,work
+29,62,sister / brother-in-law
+85,58,child
+60,82,parent
+28,19,neighbor
+13,98,grandparent
+98,57,child
+95,85,household
+87,86,sibling
+28,22,household
+104,93,child
+82,105,cousin
+93,38,neighbor
+82,18,grandchild
+48,49,sibling
+95,72,niece / nephew
+102,74,grandchild
+32,14,mother / father-in-law
+72,95,aunt / uncle
+29,89,aunt / uncle
+83,72,niece / nephew
+103,85,cousin
+11,53,parent
+21,101,grandparent
+47,30,household
+46,44,sibling
+61,64,sibling
+12,34,daughter / son-in-law
+80,91,sister / brother-in-law
+98,81,work
+25,26,sibling
+23,88,aunt / uncle
+81,91,partner
+30,49,sister / brother-in-law
+64,61,sibling
+81,80,sibling
+105,32,grandchild
+101,86,cousin
+58,85,parent
+52,58,neighbor
+94,72,niece / nephew
+57,33,partner
+90,105,cousin
+34,55,sister / brother-in-law
+94,95,sibling
+102,85,cousin
+63,58,partner
+58,64,sister / brother-in-law
+86,82,work
+3,31,parent
+32,30,sibling
+62,84,aunt / uncle
+82,83,work
+37,36,sibling
+6,39,parent
+91,32,child
+94,73,niece / nephew
+81,5,grandchild
+94,85,work
+88,103,parent
+78,75,sibling
+95,0,grandchild
+62,64,sibling
+85,91,work
+12,55,parent
+21,88,daughter / son-in-law
+86,23,niece / nephew
+92,101,cousin
+91,62,child
+81,105,parent
+7,43,parent
+86,104,cousin
+104,92,cousin
+88,87,work
+93,103,household
+87,17,neighbor
+41,43,sibling
+46,41,neighbor
+80,81,sibling
+62,58,sister / brother-in-law
+56,35,household
+10,51,parent
+31,30,sibling
+82,73,child
+99,96,neighbor
+78,76,sibling
+34,37,sibling
+101,95,household
+63,61,sibling
+58,83,aunt / uncle
+102,16,neighbor
+24,42,household
+96,55,niece / nephew
+44,45,sibling
+9,48,parent
+101,102,school
+95,101,parent
+53,11,child
+85,104,cousin
+73,52,neighbor
+73,63,neighbor
+14,61,parent
+50,53,neighbor
+61,85,aunt / uncle
+93,102,cousin
+95,85,work
+67,68,sibling
+61,58,sister / brother-in-law
+61,14,child
+53,50,neighbor
+19,28,neighbor
+89,93,work
+33,98,parent
+102,105,school
+21,74,partner
+74,104,grandparent
+29,92,aunt / uncle
+105,62,grandchild
+57,83,aunt / uncle
+92,29,niece / nephew
+22,28,partner
+104,84,cousin
+91,94,work
+28,2,child
+54,81,parent
+86,42,child
+45,25,neighbor
+86,93,work
+98,33,child
+46,33,neighbor
+103,104,school
+18,73,parent
+78,83,neighbor
+93,21,child
+80,90,work
+99,13,grandchild
+99,57,child
+92,14,grandchild
+99,86,work
+83,86,work
+16,68,parent
+30,31,sibling
+102,95,household
+66,68,sibling
+43,41,sibling
+73,95,aunt / uncle
+62,105,grandparent
+63,101,grandparent
+101,105,school
+102,88,cousin
+34,105,grandparent
+8,46,parent
+88,103,cousin
+102,84,niece / nephew
+81,32,mother / father-in-law
+5,96,grandparent
+88,89,work
+24,1,child
+104,88,child
+32,62,household
+63,60,neighbor
+82,13,grandchild
+34,96,aunt / uncle
+62,14,child
+84,101,cousin
+82,86,work
+96,87,work
+25,45,neighbor
+105,54,grandchild
+33,57,partner
+63,102,grandparent
+105,84,cousin
+85,95,household
+22,20,sibling
+57,99,parent
+104,93,cousin
+101,93,niece / nephew
+36,69,neighbor
+85,94,work
+90,2,grandchild
+70,17,child
+92,104,cousin
+88,90,work
+80,82,work
+80,93,work
+86,87,sibling
+87,103,cousin
+99,89,work
+85,62,niece / nephew
+83,89,work
+37,5,child
+36,34,sibling
+83,57,niece / nephew
+95,101,cousin
+38,103,neighbor
+92,32,child
+58,73,neighbor
+33,102,neighbor
+85,16,neighbor
+62,81,daughter / son-in-law
+68,66,sibling
+102,21,grandchild
+58,14,mother / father-in-law
+104,103,sibling
+19,76,parent
+23,25,sibling
+87,90,work
+103,86,niece / nephew
+63,52,neighbor
+0,94,grandparent
+14,64,parent
+82,89,work
+72,93,aunt / uncle
+72,82,aunt / uncle
+98,97,sibling
+38,39,sibling
+83,102,cousin
+62,92,parent
+33,59,sister / brother-in-law
+83,82,sibling
+24,103,grandparent
+101,89,cousin
+82,57,niece / nephew
+20,74,sister / brother-in-law
+93,18,grandchild
+94,101,cousin
+90,87,work
+3,91,grandparent
+72,73,sibling
+51,10,child
+16,102,neighbor
+35,56,household
+13,58,parent
+57,58,sibling
+88,82,work
+98,85,work
+91,97,work
+86,1,grandchild
+88,21,mother / father-in-law
+86,96,work
+101,21,grandchild
+58,57,sibling
+105,80,niece / nephew
+60,73,household
+57,46,neighbor
+62,32,partner
+36,37,sibling
+0,21,parent
+13,84,grandparent
+94,102,cousin
+82,102,cousin
+81,62,mother / father-in-law
+89,101,cousin
+26,1,child
+103,91,cousin
+14,91,grandparent
+89,47,child
+52,73,neighbor
+89,87,work
+104,74,grandchild
+49,27,neighbor
+17,70,parent
+19,61,neighbor
+2,27,parent
+42,24,partner
+87,82,work
+97,85,work
+88,93,household
+88,104,household
+73,58,neighbor
+69,68,sibling
+81,85,work
+102,57,neighbor
+93,88,partner
+101,95,child
+95,91,work
+91,105,parent
+31,92,aunt / uncle
+83,80,work
+84,104,cousin
+89,88,work
+96,90,work
+89,20,neighbor
+102,91,cousin
+85,102,parent
+105,87,cousin
+103,38,neighbor
+87,23,niece / nephew
+24,88,parent
+42,87,parent
+92,62,child
+85,97,work
+20,28,sister / brother-in-law
+97,98,sibling
+47,89,parent
+80,96,work
+42,43,sibling
+54,34,partner
+103,42,grandchild
+37,96,neighbor
+12,96,grandparent
+90,20,niece / nephew
+94,91,work
+84,95,sister / brother-in-law
+102,101,household
+16,95,neighbor
+76,77,sibling
+41,46,neighbor
+74,94,parent
+73,60,household
+21,22,sibling
+91,30,niece / nephew
+90,103,cousin
+55,54,sibling
+59,83,aunt / uncle
+5,34,parent
+74,72,sibling
+26,24,sibling
+102,83,cousin
+51,3,neighbor
+104,87,cousin
+89,3,grandchild
+41,86,aunt / uncle
+105,104,school
+103,87,niece / nephew
+3,29,parent
+68,69,sibling
+5,80,grandparent
+64,14,child
+102,95,child
+87,93,work
+84,102,aunt / uncle
+30,89,parent
+21,94,parent
+96,82,work
+18,95,grandparent
+96,93,work
+85,101,household
+1,25,parent
+83,18,grandchild
+101,92,cousin
+104,88,cousin
+93,103,parent
+73,72,sibling
+87,42,child
+87,104,aunt / uncle
+99,33,child
+30,47,household
+85,57,niece / nephew
+86,88,work
+94,21,child
+86,99,work
+93,87,work
+58,60,sibling
+7,87,grandparent
+81,98,work
+32,91,parent
+96,34,niece / nephew
+60,58,sibling
+50,10,child
+80,12,grandchild
+82,83,sibling
+82,60,child
+20,95,aunt / uncle
+55,12,child
+5,37,parent
+95,93,sibling
+103,83,cousin
+84,62,niece / nephew
+21,18,mother / father-in-law
+91,105,cousin
+89,90,work
+46,8,child
+75,77,sibling
+61,62,sibling
+22,0,child
+58,101,grandparent
+41,7,child
+87,1,grandchild
+72,21,sister / brother-in-law
+40,39,sibling
+97,4,grandchild
+85,102,cousin
+88,93,work
+59,57,sibling
+25,24,sibling
+23,86,aunt / uncle
+25,1,child
+14,32,daughter / son-in-law
+54,56,sibling
+87,34,neighbor
+30,3,child
+101,84,cousin
+84,85,sibling
+90,82,work
+18,60,daughter / son-in-law
+57,63,sister / brother-in-law
+34,54,partner
+94,93,sibling
+14,85,grandparent
+74,102,grandparent
+102,94,cousin
+91,81,work
+81,91,household
+105,90,cousin
+102,33,neighbor
+29,31,sibling
+85,93,sister / brother-in-law
+58,63,partner
+12,80,grandparent
+22,2,mother / father-in-law
+58,73,sister / brother-in-law
+86,80,work
+44,70,neighbor
+57,33,household
+2,22,daughter / son-in-law
+80,88,work
+95,16,neighbor
+95,85,partner
+42,103,grandparent
+16,66,parent
+63,58,household
+90,22,child
+37,34,sibling
+47,48,sibling
+54,105,grandparent
+103,86,cousin
+61,91,aunt / uncle
+83,105,cousin
+89,82,work
+83,73,child
+93,20,niece / nephew
+85,105,cousin
+104,38,neighbor
+97,91,work
+86,102,cousin
+104,90,cousin
+16,10,neighbor
+24,43,sister / brother-in-law
+3,32,parent
+101,102,sibling
+93,103,cousin
+104,42,grandchild
+88,74,mother / father-in-law
+93,89,work
+99,97,sibling
+86,103,aunt / uncle
+34,56,sister / brother-in-law
+55,96,aunt / uncle
+34,35,sibling
+94,18,grandchild
+89,104,cousin
+102,86,cousin
+105,91,household
+8,44,parent
+105,82,cousin
+101,95,cousin
+41,24,sister / brother-in-law
+85,81,work
+87,96,work
+13,82,grandparent
+103,104,sibling
+86,7,grandchild
+99,87,work
+60,83,parent
+102,85,household
+95,94,work
+67,66,sibling
+58,60,neighbor
+95,73,niece / nephew
+12,56,parent
+104,82,cousin
+89,9,grandchild
+46,45,sibling
+10,16,neighbor
+93,101,aunt / uncle
+9,49,parent
+66,6,neighbor
+77,19,child
+20,21,sibling
+80,99,work
+14,62,parent
+72,18,child
+64,62,sibling
+30,29,sibling
+104,86,niece / nephew
+22,28,household
+101,85,household
+49,47,sibling
+101,87,cousin
+96,37,neighbor
+73,93,aunt / uncle
+25,4,neighbor
+39,6,child
+85,21,mother / father-in-law
+103,88,cousin
+58,13,child
+21,104,grandparent
+91,95,work
+88,101,cousin
+102,93,niece / nephew
+93,82,work
+92,91,sibling
+86,83,work
+71,17,child
+47,9,child
+18,74,parent
+66,16,child
+58,52,neighbor
+76,19,child
+38,93,neighbor
+9,30,daughter / son-in-law
+38,104,neighbor
+32,63,sister / brother-in-law
+96,56,child
+32,31,sibling
+62,85,aunt / uncle
+33,99,parent
+20,90,aunt / uncle
+6,40,parent
+33,4,child
+84,57,niece / nephew
+43,7,child
+57,84,aunt / uncle
+92,30,niece / nephew
+103,89,cousin
+88,104,parent
+22,90,parent
+52,60,neighbor
+57,97,parent
+90,93,work
+45,46,sibling
+57,13,child
+103,105,school
+90,0,grandchild
+59,73,sister / brother-in-law
+92,102,cousin
+20,89,neighbor
+35,54,sister / brother-in-law
+88,99,work
+69,66,sibling
+87,101,cousin
+18,82,grandparent
+83,87,work
+71,70,sibling
+33,57,household
+30,32,sibling
+93,85,sister / brother-in-law
+93,104,household
+93,90,work
+43,42,sibling
+84,13,grandchild
+57,85,aunt / uncle
+63,84,parent
+57,102,neighbor
+96,88,work
+57,98,parent
+102,89,cousin
+29,47,sister / brother-in-law
+63,62,sibling
+105,85,cousin
+86,24,child
+39,40,sibling
+29,3,child
+44,46,sibling
+24,86,parent
+24,25,sibling
+101,94,niece / nephew
+35,96,parent
+105,101,school
+95,102,parent
+87,88,work
+80,83,work
+13,85,grandparent
+42,41,sibling
+59,60,sibling
+54,96,aunt / uncle
+87,99,work
+82,87,work
+52,63,neighbor
+95,97,work
+60,74,sister / brother-in-law
+20,0,child
+76,75,sibling
+67,69,sibling
+93,94,sibling
+83,13,grandchild
+104,103,household
+90,96,work
+9,15,neighbor
+96,12,grandchild
+6,66,neighbor
+80,105,aunt / uncle
+104,85,cousin
+105,102,school
+81,105,household
+42,7,child
+27,49,neighbor
+80,34,child
+51,50,sibling
+70,71,sibling
+61,32,sister / brother-in-law
+36,35,sibling
+55,35,sister / brother-in-law
+83,58,niece / nephew
+93,72,niece / nephew
+74,21,partner
+93,95,sibling
+96,80,work
+16,69,parent
+1,87,grandparent
+94,97,work
+1,23,parent
+66,69,sibling
+101,90,cousin
+16,101,neighbor
+89,96,work
+28,27,sibling
+62,32,household
+23,26,sibling
+87,80,work
+97,94,work
+0,95,grandparent
+99,82,work
+88,94,sister / brother-in-law
+103,21,grandchild
+86,66,neighbor
