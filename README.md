@@ -17,6 +17,8 @@ Code:
 ### How to run the code
 1. Install anaconda/miniconda
 2. Install dependencies and start jupyter notebook
-```conda env create -f environment.yml
+```
+conda env create -f environment.yml
 conda activate networks
-jupyter notebook```
+jupyter notebook
+```
