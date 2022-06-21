@@ -1,0 +1,2882 @@
+source,target,edgetype
+127,164,aunt / uncle
+68,181,neighbor
+84,148,neighbor
+130,141,cousin
+151,116,cousin
+138,91,mother / father-in-law
+86,88,sibling
+124,146,cousin
+172,138,household
+97,98,sibling
+160,63,grandchild
+60,180,grandparent
+123,132,partner
+86,175,grandparent
+122,118,work
+134,140,work
+114,87,niece / nephew
+127,165,aunt / uncle
+120,166,aunt / uncle
+156,81,grandchild
+51,151,parent
+89,101,partner
+100,89,sister / brother-in-law
+159,160,sibling
+166,131,household
+113,119,work
+94,178,grandparent
+137,148,work
+116,128,sister / brother-in-law
+141,50,mother / father-in-law
+148,117,cousin
+101,121,aunt / uncle
+180,51,grandchild
+135,163,household
+118,143,work
+139,115,work
+116,127,work
+65,95,partner
+67,105,sister / brother-in-law
+56,165,grandparent
+56,155,neighbor
+158,171,school
+102,62,partner
+144,157,household
+125,128,partner
+102,100,neighbor
+173,103,grandchild
+166,158,school
+141,144,work
+152,144,household
+138,131,work
+50,110,partner
+124,127,cousin
+150,122,cousin
+113,149,work
+91,179,grandparent
+139,175,household
+169,166,school
+120,148,work
+156,142,niece / nephew
+174,148,household
+134,71,child
+173,180,cousin
+137,120,work
+61,122,aunt / uncle
+150,130,work
+134,72,niece / nephew
+144,75,niece / nephew
+163,162,sibling
+133,160,parent
+179,56,neighbor
+153,179,school
+142,85,mother / father-in-law
+166,182,cousin
+167,171,school
+114,135,sister / brother-in-law
+179,165,school
+182,181,household
+151,140,sister / brother-in-law
+131,132,sibling
+135,154,aunt / uncle
+153,76,grandchild
+113,166,neighbor
+116,138,work
+121,113,sister / brother-in-law
+62,177,neighbor
+129,148,work
+164,165,school
+180,103,grandchild
+152,127,work
+169,116,child
+152,158,parent
+80,55,sister / brother-in-law
+141,130,cousin
+160,135,niece / nephew
+174,136,niece / nephew
+137,151,work
+172,168,school
+157,144,child
+132,128,work
+131,128,cousin
+177,119,child
+120,181,parent
+172,171,household
+115,86,child
+98,77,sister / brother-in-law
+150,180,household
+118,92,neighbor
+117,170,aunt / uncle
+147,55,niece / nephew
+168,117,niece / nephew
+148,137,work
+150,62,niece / nephew
+114,115,work
+131,145,work
+182,181,sibling
+131,167,parent
+86,159,grandparent
+156,135,neighbor
+102,89,sister / brother-in-law
+100,129,aunt / uncle
+87,63,sister / brother-in-law
+76,157,grandparent
+81,77,sister / brother-in-law
+130,117,household
+124,56,child
+67,118,parent
+179,176,school
+133,142,sister / brother-in-law
+123,178,household
+118,127,work
+144,122,work
+158,155,school
+168,158,school
+165,128,child
+104,141,aunt / uncle
+172,171,sibling
+116,124,cousin
+100,121,aunt / uncle
+119,60,mother / father-in-law
+126,127,cousin
+176,175,sibling
+77,143,aunt / uncle
+170,127,household
+154,149,neighbor
+140,150,household
+107,128,parent
+72,71,sibling
+142,144,sibling
+172,50,grandchild
+149,52,niece / nephew
+155,181,neighbor
+177,155,cousin
+144,152,work
+146,118,work
+164,170,cousin
+110,136,parent
+116,141,work
+126,144,work
+76,81,partner
+119,150,sister / brother-in-law
+161,163,household
+61,55,partner
+162,129,child
+128,132,cousin
+88,151,daughter / son-in-law
+129,151,work
+148,57,child
+168,128,niece / nephew
+138,145,work
+136,138,sibling
+127,107,child
+154,71,grandchild
+131,118,work
+60,151,parent
+120,121,sibling
+72,85,sister / brother-in-law
+114,175,aunt / uncle
+129,162,parent
+170,55,grandchild
+134,85,child
+115,175,neighbor
+167,155,school
+63,95,sister / brother-in-law
+108,92,neighbor
+124,79,niece / nephew
+127,108,niece / nephew
+172,140,niece / nephew
+182,159,cousin
+97,83,neighbor
+118,138,work
+50,173,grandparent
+101,163,grandparent
+82,57,neighbor
+162,182,school
+133,114,work
+57,116,aunt / uncle
+116,122,work
+121,101,niece / nephew
+146,55,niece / nephew
+110,148,daughter / son-in-law
+176,175,neighbor
+94,65,sister / brother-in-law
+138,126,work
+168,61,neighbor
+181,182,household
+113,65,niece / nephew
+162,103,neighbor
+137,135,work
+127,125,sister / brother-in-law
+91,141,parent
+123,54,mother / father-in-law
+110,138,parent
+154,176,school
+164,179,school
+123,132,household
+156,98,grandchild
+179,173,cousin
+109,127,aunt / uncle
+135,156,neighbor
+136,152,work
+162,163,school
+89,101,household
+140,90,niece / nephew
+123,98,niece / nephew
+120,135,work
+114,159,parent
+55,169,grandparent
+134,160,aunt / uncle
+126,56,child
+176,86,grandchild
+116,144,work
+75,144,daughter / son-in-law
+61,102,sister / brother-in-law
+65,95,household
+157,81,grandchild
+56,79,sister / brother-in-law
+102,62,household
+139,145,cousin
+54,166,grandparent
+140,172,aunt / uncle
+181,182,sibling
+125,128,household
+155,65,grandchild
+148,151,work
+156,173,school
+126,57,niece / nephew
+50,141,daughter / son-in-law
+50,110,household
+50,165,neighbor
+57,174,grandparent
+86,139,daughter / son-in-law
+160,133,child
+85,73,sister / brother-in-law
+151,52,niece / nephew
+159,86,grandchild
+145,94,niece / nephew
+96,123,aunt / uncle
+99,152,aunt / uncle
+65,118,daughter / son-in-law
+130,68,niece / nephew
+108,106,sibling
+63,65,sibling
+118,141,work
+155,95,grandchild
+135,161,household
+144,136,work
+120,129,cousin
+86,65,sister / brother-in-law
+151,67,mother / father-in-law
+158,169,school
+129,135,work
+110,125,neighbor
+169,55,neighbor
+91,90,sibling
+170,169,sibling
+181,122,niece / nephew
+170,116,child
+158,170,school
+160,114,child
+128,125,partner
+137,151,cousin
+175,115,household
+127,136,work
+126,79,niece / nephew
+63,182,grandparent
+105,91,sister / brother-in-law
+132,128,cousin
+89,91,sibling
+154,179,school
+80,128,aunt / uncle
+152,144,work
+94,98,sister / brother-in-law
+122,151,cousin
+88,180,neighbor
+154,85,grandchild
+143,153,aunt / uncle
+169,156,school
+83,84,sibling
+55,125,aunt / uncle
+105,139,aunt / uncle
+134,163,aunt / uncle
+96,94,sibling
+115,65,niece / nephew
+173,179,cousin
+115,175,parent
+147,116,work
+98,94,sister / brother-in-law
+167,169,school
+124,147,cousin
+134,142,partner
+133,159,parent
+114,145,cousin
+163,71,grandchild
+160,161,cousin
+147,103,neighbor
+167,170,school
+142,153,parent
+124,126,sibling
+152,156,parent
+178,180,school
+108,109,sibling
+120,119,work
+137,149,work
+176,164,school
+107,80,sister / brother-in-law
+118,144,work
+140,149,sister / brother-in-law
+158,172,school
+127,169,parent
+144,152,cousin
+85,71,partner
+144,158,household
+110,128,neighbor
+163,101,grandchild
+152,76,niece / nephew
+117,168,aunt / uncle
+150,140,partner
+180,176,school
+124,128,cousin
+140,104,niece / nephew
+120,149,work
+118,155,parent
+91,180,grandparent
+169,167,school
+161,156,neighbor
+85,160,grandparent
+172,166,neighbor
+164,124,niece / nephew
+98,123,aunt / uncle
+60,51,household
+55,80,sister / brother-in-law
+132,178,parent
+81,75,sister / brother-in-law
+76,81,household
+107,164,grandparent
+139,96,child
+61,55,household
+175,154,school
+134,117,work
+126,124,sibling
+61,170,grandparent
+122,131,partner
+117,150,work
+126,164,aunt / uncle
+134,73,niece / nephew
+114,118,cousin
+116,122,cousin
+174,173,cousin
+153,180,school
+83,174,grandparent
+178,153,school
+136,147,work
+149,50,niece / nephew
+169,128,niece / nephew
+182,176,cousin
+137,110,child
+120,166,neighbor
+116,60,niece / nephew
+104,140,aunt / uncle
+146,116,work
+122,116,work
+182,174,school
+181,120,household
+129,149,work
+159,114,child
+89,162,grandparent
+125,117,cousin
+181,166,neighbor
+128,108,niece / nephew
+139,114,sister / brother-in-law
+131,116,work
+138,143,work
+157,171,school
+113,145,cousin
+158,152,child
+80,124,parent
+120,182,parent
+163,160,cousin
+127,106,niece / nephew
+80,179,neighbor
+136,137,sibling
+140,179,household
+169,61,neighbor
+165,80,grandchild
+152,142,cousin
+180,179,school
+179,150,household
+130,104,niece / nephew
+154,133,niece / nephew
+131,146,work
+167,131,child
+132,80,niece / nephew
+144,81,child
+169,170,school
+66,68,sibling
+161,89,grandchild
+137,84,neighbor
+157,154,cousin
+141,140,sibling
+55,83,sister / brother-in-law
+178,164,school
+76,158,grandparent
+122,166,household
+160,181,school
+67,119,parent
+76,152,aunt / uncle
+172,120,neighbor
+55,127,neighbor
+127,131,work
+120,116,cousin
+56,126,parent
+158,156,school
+166,132,niece / nephew
+104,95,sister / brother-in-law
+147,131,work
+163,85,grandchild
+160,175,cousin
+99,132,daughter / son-in-law
+116,125,cousin
+152,98,child
+77,144,aunt / uncle
+152,123,cousin
+119,120,work
+138,116,work
+118,67,child
+176,178,school
+115,113,sibling
+150,119,sister / brother-in-law
+110,137,parent
+50,51,sibling
+155,157,school
+75,152,parent
+123,132,work
+66,130,aunt / uncle
+109,106,sibling
+138,146,work
+163,160,school
+171,136,niece / nephew
+55,168,grandparent
+152,76,mother / father-in-law
+98,97,sibling
+117,134,work
+145,136,work
+121,129,cousin
+99,123,parent
+174,110,grandchild
+144,142,sibling
+153,144,niece / nephew
+51,177,grandparent
+145,155,household
+128,125,household
+129,163,parent
+126,86,neighbor
+79,80,sibling
+83,55,sister / brother-in-law
+130,66,niece / nephew
+141,173,household
+54,122,daughter / son-in-law
+127,109,niece / nephew
+167,156,school
+119,114,cousin
+182,160,cousin
+50,174,grandparent
+172,181,neighbor
+144,156,parent
+146,147,sibling
+90,91,sibling
+87,67,sister / brother-in-law
+115,145,cousin
+157,155,school
+125,126,sibling
+60,116,aunt / uncle
+102,113,daughter / son-in-law
+179,180,school
+89,140,aunt / uncle
+61,116,neighbor
+88,115,aunt / uncle
+137,149,cousin
+169,127,household
+134,142,household
+120,131,sister / brother-in-law
+160,115,niece / nephew
+180,140,child
+135,71,child
+125,131,cousin
+109,128,aunt / uncle
+159,153,cousin
+122,149,cousin
+63,181,grandparent
+55,170,grandparent
+134,161,aunt / uncle
+120,149,cousin
+117,120,cousin
+172,180,cousin
+116,145,work
+115,176,household
+142,140,work
+150,121,work
+170,164,cousin
+85,71,household
+54,167,grandparent
+150,140,household
+62,151,aunt / uncle
+133,85,child
+159,181,school
+169,154,neighbor
+120,68,neighbor
+117,150,cousin
+167,168,school
+146,152,work
+137,148,partner
+73,72,sibling
+108,107,sibling
+139,115,partner
+95,65,partner
+116,127,partner
+52,51,sibling
+130,55,mother / father-in-law
+170,128,niece / nephew
+103,96,sister / brother-in-law
+162,156,neighbor
+182,161,school
+116,126,work
+122,131,household
+68,130,aunt / uncle
+134,153,household
+142,121,work
+147,137,sister / brother-in-law
+146,116,cousin
+147,145,work
+173,136,niece / nephew
+88,67,partner
+176,154,school
+159,162,school
+141,138,work
+180,177,cousin
+169,168,household
+112,138,aunt / uncle
+81,143,parent
+155,171,school
+154,180,school
+180,175,school
+148,84,niece / nephew
+60,52,sister / brother-in-law
+153,142,household
+121,130,work
+163,174,school
+61,168,grandparent
+66,88,sister / brother-in-law
+73,134,aunt / uncle
+67,145,daughter / son-in-law
+138,110,child
+55,126,aunt / uncle
+105,140,aunt / uncle
+155,172,school
+96,95,sibling
+83,148,parent
+139,95,niece / nephew
+151,121,cousin
+154,134,household
+147,162,neighbor
+103,172,grandparent
+181,159,school
+127,118,work
+143,144,sibling
+145,114,cousin
+94,96,sibling
+116,121,cousin
+120,115,sister / brother-in-law
+161,153,cousin
+127,131,cousin
+169,168,sibling
+175,176,household
+142,154,parent
+175,113,niece / nephew
+128,106,niece / nephew
+157,169,school
+143,127,work
+176,165,school
+136,150,cousin
+145,131,work
+145,115,cousin
+180,150,household
+62,181,grandparent
+118,56,neighbor
+161,154,cousin
+67,68,sibling
+158,173,school
+147,57,child
+116,151,cousin
+127,170,parent
+141,171,parent
+139,113,sister / brother-in-law
+148,137,partner
+67,155,grandparent
+152,77,niece / nephew
+95,63,sister / brother-in-law
+125,123,work
+65,86,sister / brother-in-law
+135,85,child
+119,137,work
+161,181,school
+64,95,sister / brother-in-law
+150,61,niece / nephew
+94,66,neighbor
+50,136,parent
+117,121,work
+133,162,aunt / uncle
+134,135,sibling
+75,158,grandparent
+85,161,grandparent
+167,132,niece / nephew
+113,114,sibling
+172,137,niece / nephew
+120,86,mother / father-in-law
+91,129,aunt / uncle
+107,165,grandparent
+153,154,household
+158,143,niece / nephew
+156,129,neighbor
+60,55,sister / brother-in-law
+114,65,niece / nephew
+126,125,sibling
+179,140,household
+155,177,cousin
+163,177,school
+56,124,parent
+165,153,school
+67,88,partner
+126,165,aunt / uncle
+92,80,neighbor
+140,130,work
+176,115,child
+158,157,household
+107,108,sibling
+168,107,grandchild
+161,162,school
+144,152,partner
+182,114,niece / nephew
+143,138,work
+152,99,niece / nephew
+181,162,school
+75,142,aunt / uncle
+178,132,child
+141,122,work
+63,133,daughter / son-in-law
+65,115,aunt / uncle
+51,150,parent
+94,139,aunt / uncle
+118,119,sibling
+172,173,school
+123,152,cousin
+68,88,sister / brother-in-law
+129,100,niece / nephew
+89,163,grandparent
+125,165,parent
+119,148,work
+153,154,sibling
+131,102,mother / father-in-law
+128,109,niece / nephew
+157,172,school
+149,138,cousin
+126,138,work
+113,176,aunt / uncle
+143,152,cousin
+134,81,mother / father-in-law
+110,51,sister / brother-in-law
+128,126,cousin
+133,71,child
+141,152,work
+146,147,work
+120,113,partner
+128,164,parent
+165,175,school
+122,147,work
+142,77,niece / nephew
+163,159,school
+140,180,household
+133,114,partner
+132,125,work
+125,148,cousin
+120,62,child
+52,136,aunt / uncle
+177,151,child
+90,89,sibling
+178,165,school
+136,173,aunt / uncle
+122,167,household
+79,166,grandparent
+107,168,grandparent
+102,121,parent
+134,121,work
+91,140,parent
+139,86,mother / father-in-law
+56,148,aunt / uncle
+75,144,aunt / uncle
+168,55,neighbor
+101,89,partner
+160,113,niece / nephew
+104,96,partner
+52,110,sister / brother-in-law
+181,167,cousin
+137,148,household
+62,166,grandparent
+80,79,sibling
+71,73,sibling
+168,155,school
+143,141,work
+165,125,child
+162,159,cousin
+115,114,sibling
+139,115,household
+95,65,household
+71,160,grandparent
+116,127,household
+156,162,neighbor
+168,61,grandchild
+50,52,sibling
+145,181,neighbor
+155,158,school
+153,85,grandchild
+157,152,child
+62,122,parent
+119,151,work
+138,147,work
+163,161,school
+171,137,niece / nephew
+55,60,sister / brother-in-law
+88,67,household
+126,141,work
+166,169,school
+117,148,cousin
+147,126,cousin
+153,162,cousin
+143,122,work
+164,154,school
+155,80,neighbor
+129,135,partner
+175,139,neighbor
+86,64,sister / brother-in-law
+159,133,household
+66,105,sister / brother-in-law
+172,182,neighbor
+134,154,parent
+135,133,sibling
+112,50,sister / brother-in-law
+140,103,child
+172,157,school
+113,102,mother / father-in-law
+75,99,sister / brother-in-law
+151,138,cousin
+140,51,mother / father-in-law
+157,156,school
+149,122,cousin
+126,122,work
+95,99,sister / brother-in-law
+168,166,school
+145,118,work
+122,132,sister / brother-in-law
+171,173,school
+162,85,grandchild
+130,142,work
+122,131,work
+82,146,aunt / uncle
+162,159,school
+151,177,parent
+159,154,cousin
+94,97,sister / brother-in-law
+168,167,school
+148,82,niece / nephew
+116,117,sibling
+160,86,grandchild
+86,115,parent
+143,144,work
+85,114,daughter / son-in-law
+126,152,work
+71,129,daughter / son-in-law
+124,128,sister / brother-in-law
+164,176,school
+116,55,child
+146,82,niece / nephew
+95,96,sibling
+71,163,grandparent
+91,103,partner
+83,146,parent
+169,55,grandchild
+117,121,cousin
+133,160,household
+152,138,work
+179,151,niece / nephew
+162,160,school
+131,126,work
+94,145,aunt / uncle
+174,147,niece / nephew
+170,165,cousin
+89,135,daughter / son-in-law
+148,137,household
+159,182,school
+165,110,neighbor
+137,113,work
+80,145,neighbor
+166,172,school
+117,151,cousin
+168,116,child
+158,144,household
+152,158,household
+156,144,child
+177,88,grandchild
+145,113,cousin
+115,139,work
+156,76,grandchild
+120,181,household
+67,66,sibling
+127,168,parent
+182,62,grandchild
+67,88,household
+147,146,work
+163,134,niece / nephew
+123,139,cousin
+173,137,niece / nephew
+125,80,child
+148,146,sibling
+138,52,niece / nephew
+155,145,household
+121,60,niece / nephew
+119,135,work
+149,62,niece / nephew
+162,135,household
+168,169,school
+85,135,parent
+75,156,grandparent
+144,152,household
+85,159,grandparent
+131,167,household
+122,143,work
+60,102,sister / brother-in-law
+135,119,work
+148,129,work
+149,51,child
+150,117,cousin
+57,56,sibling
+119,86,niece / nephew
+68,105,sister / brother-in-law
+56,92,neighbor
+166,122,child
+73,135,aunt / uncle
+110,171,grandparent
+101,90,sister / brother-in-law
+152,142,sister / brother-in-law
+132,125,cousin
+103,162,neighbor
+155,173,school
+151,122,cousin
+95,139,aunt / uncle
+147,118,work
+120,113,household
+102,129,aunt / uncle
+152,97,niece / nephew
+103,173,grandparent
+171,157,school
+86,181,grandparent
+163,129,household
+138,112,niece / nephew
+142,134,partner
+91,101,sister / brother-in-law
+133,114,household
+181,160,school
+176,139,household
+135,142,sister / brother-in-law
+137,57,mother / father-in-law
+137,146,sister / brother-in-law
+167,166,school
+130,139,cousin
+155,118,household
+127,55,mother / father-in-law
+153,71,grandchild
+154,159,cousin
+157,170,school
+126,136,work
+136,151,cousin
+121,62,child
+180,179,sibling
+55,61,partner
+112,110,sibling
+88,177,grandparent
+137,147,sister / brother-in-law
+51,149,parent
+152,122,work
+122,145,work
+122,129,cousin
+129,162,household
+141,172,parent
+101,89,household
+142,75,niece / nephew
+95,64,sister / brother-in-law
+96,105,sister / brother-in-law
+132,123,work
+104,96,household
+161,182,school
+167,102,grandchild
+56,116,aunt / uncle
+133,163,aunt / uncle
+168,172,school
+128,132,work
+63,87,sister / brother-in-law
+122,146,work
+120,101,niece / nephew
+166,156,school
+158,156,sibling
+175,175,neighbor
+158,75,grandchild
+136,171,aunt / uncle
+162,174,school
+102,100,sibling
+72,134,aunt / uncle
+76,98,sister / brother-in-law
+79,131,parent
+103,150,daughter / son-in-law
+86,120,daughter / son-in-law
+117,61,child
+54,79,partner
+110,174,grandparent
+162,71,grandchild
+153,176,school
+118,122,work
+108,127,aunt / uncle
+56,57,sibling
+107,109,sibling
+127,117,sister / brother-in-law
+77,81,sister / brother-in-law
+61,120,aunt / uncle
+132,54,child
+122,127,work
+91,104,sister / brother-in-law
+75,143,aunt / uncle
+57,82,sister / brother-in-law
+114,159,household
+151,51,child
+116,62,niece / nephew
+129,135,household
+162,101,grandchild
+148,113,work
+68,182,neighbor
+148,126,cousin
+118,152,work
+180,60,grandchild
+154,162,cousin
+121,167,aunt / uncle
+97,99,sibling
+116,136,work
+119,145,sister / brother-in-law
+163,162,household
+127,152,work
+166,167,school
+128,165,parent
+95,123,aunt / uncle
+82,57,sister / brother-in-law
+141,103,child
+129,102,niece / nephew
+64,142,neighbor
+173,157,school
+170,127,child
+153,160,cousin
+131,126,cousin
+177,180,cousin
+146,143,work
+154,135,niece / nephew
+52,137,aunt / uncle
+139,176,parent
+136,174,aunt / uncle
+91,103,household
+181,113,child
+162,177,school
+137,129,work
+140,138,sister / brother-in-law
+156,157,school
+162,147,neighbor
+131,143,work
+175,153,school
+181,174,school
+67,86,sister / brother-in-law
+104,91,sister / brother-in-law
+57,84,sister / brother-in-law
+151,137,cousin
+180,151,niece / nephew
+138,103,mother / father-in-law
+120,129,work
+87,118,aunt / uncle
+86,113,parent
+133,139,work
+168,156,school
+136,148,sister / brother-in-law
+177,159,school
+163,135,household
+117,56,niece / nephew
+156,163,neighbor
+95,94,sibling
+116,169,parent
+71,161,grandparent
+152,136,work
+172,179,cousin
+97,94,sister / brother-in-law
+115,175,household
+116,55,neighbor
+161,135,child
+107,116,daughter / son-in-law
+141,139,cousin
+127,61,mother / father-in-law
+123,79,mother / father-in-law
+133,159,household
+85,142,daughter / son-in-law
+164,128,household
+157,76,grandchild
+160,159,school
+139,140,cousin
+166,170,school
+117,149,cousin
+174,146,niece / nephew
+142,153,household
+176,175,household
+152,156,household
+83,57,partner
+153,163,cousin
+60,149,parent
+175,164,school
+52,50,sibling
+160,153,cousin
+134,129,sister / brother-in-law
+127,169,household
+177,181,school
+81,152,daughter / son-in-law
+172,158,school
+118,136,work
+147,56,niece / nephew
+175,165,school
+150,51,child
+118,181,neighbor
+101,161,grandparent
+181,68,neighbor
+144,131,work
+55,148,aunt / uncle
+150,142,work
+114,113,sibling
+141,138,partner
+129,71,mother / father-in-law
+85,133,parent
+178,166,cousin
+118,155,household
+97,123,aunt / uncle
+181,177,school
+177,102,neighbor
+142,134,household
+104,94,sister / brother-in-law
+132,178,household
+82,147,aunt / uncle
+81,142,parent
+64,86,sister / brother-in-law
+91,138,daughter / son-in-law
+149,61,niece / nephew
+91,172,grandparent
+178,123,household
+146,127,work
+60,51,partner
+121,181,aunt / uncle
+180,171,cousin
+177,162,school
+83,147,parent
+55,61,household
+128,107,child
+57,82,neighbor
+162,161,school
+131,127,work
+171,110,grandchild
+173,171,school
+123,96,niece / nephew
+166,121,niece / nephew
+171,155,school
+140,121,work
+150,136,cousin
+155,92,neighbor
+51,138,aunt / uncle
+173,174,cousin
+175,115,child
+106,108,sibling
+96,176,grandparent
+160,162,school
+121,122,sibling
+144,134,sister / brother-in-law
+120,113,work
+137,174,parent
+154,157,cousin
+148,149,work
+156,171,school
+126,55,niece / nephew
+57,125,aunt / uncle
+150,137,cousin
+100,101,sibling
+64,115,aunt / uncle
+142,117,work
+120,182,household
+136,131,work
+54,79,household
+122,102,child
+182,63,grandchild
+86,119,aunt / uncle
+96,103,sister / brother-in-law
+144,75,mother / father-in-law
+80,92,neighbor
+121,61,niece / nephew
+77,98,sister / brother-in-law
+171,179,cousin
+146,138,work
+143,77,niece / nephew
+117,105,mother / father-in-law
+158,167,school
+168,170,school
+75,157,grandparent
+122,144,work
+143,152,sister / brother-in-law
+135,120,work
+128,126,sister / brother-in-law
+169,164,cousin
+138,127,work
+141,136,sister / brother-in-law
+119,87,niece / nephew
+129,113,work
+132,126,cousin
+110,172,grandparent
+140,141,sibling
+99,178,grandparent
+117,62,niece / nephew
+170,169,household
+145,88,mother / father-in-law
+83,82,sibling
+171,158,school
+114,160,parent
+157,144,household
+153,175,school
+151,61,niece / nephew
+177,119,household
+162,133,niece / nephew
+118,151,sister / brother-in-law
+62,61,sibling
+134,143,sister / brother-in-law
+175,181,cousin
+172,113,neighbor
+135,151,work
+50,125,neighbor
+130,140,cousin
+140,173,aunt / uncle
+51,52,sibling
+178,54,grandchild
+119,68,niece / nephew
+175,179,school
+114,71,mother / father-in-law
+144,145,work
+113,122,sister / brother-in-law
+160,71,grandchild
+154,160,cousin
+89,103,sister / brother-in-law
+181,62,grandchild
+71,114,daughter / son-in-law
+146,124,cousin
+110,50,partner
+149,119,work
+172,141,child
+135,162,parent
+129,163,household
+148,125,cousin
+124,164,aunt / uncle
+173,155,school
+61,127,neighbor
+131,124,cousin
+150,120,cousin
+127,145,work
+146,141,work
+132,167,aunt / uncle
+56,164,grandparent
+116,148,cousin
+144,156,household
+63,88,sister / brother-in-law
+110,164,neighbor
+142,150,work
+158,76,grandchild
+118,115,cousin
+136,172,aunt / uncle
+102,101,sibling
+170,117,niece / nephew
+72,135,aunt / uncle
+156,155,school
+131,141,work
+83,82,neighbor
+142,152,sister / brother-in-law
+110,141,daughter / son-in-law
+168,127,household
+110,165,neighbor
+76,153,grandparent
+54,178,grandparent
+158,153,cousin
+108,128,aunt / uncle
+144,118,work
+61,121,aunt / uncle
+171,138,child
+98,157,grandparent
+147,174,aunt / uncle
+127,126,work
+167,181,cousin
+83,57,household
+163,161,sibling
+71,135,parent
+80,155,neighbor
+80,165,grandparent
+174,171,cousin
+116,120,cousin
+153,178,school
+136,145,work
+161,159,school
+158,154,cousin
+119,151,partner
+50,128,neighbor
+138,171,parent
+149,179,aunt / uncle
+148,174,parent
+61,151,aunt / uncle
+81,157,grandparent
+154,163,cousin
+168,55,grandchild
+148,50,mother / father-in-law
+141,138,household
+132,122,sister / brother-in-law
+61,62,sibling
+116,150,cousin
+118,95,mother / father-in-law
+138,141,work
+173,158,school
+141,150,sister / brother-in-law
+131,127,cousin
+157,75,grandchild
+146,144,work
+136,126,work
+86,63,partner
+98,76,sister / brother-in-law
+125,132,work
+143,116,work
+141,105,niece / nephew
+139,130,cousin
+172,136,niece / nephew
+137,51,niece / nephew
+122,100,niece / nephew
+145,118,partner
+131,144,work
+156,158,school
+116,118,work
+165,107,grandchild
+67,180,neighbor
+151,119,work
+171,172,school
+177,100,neighbor
+160,181,cousin
+157,158,household
+181,145,neighbor
+136,118,work
+159,71,grandchild
+76,156,grandparent
+95,118,daughter / son-in-law
+129,141,cousin
+138,122,work
+181,115,niece / nephew
+101,102,sibling
+179,175,school
+147,84,niece / nephew
+171,141,child
+82,83,neighbor
+160,85,grandchild
+87,119,aunt / uncle
+86,114,parent
+167,121,niece / nephew
+51,119,daughter / son-in-law
+63,175,grandparent
+128,169,aunt / uncle
+166,120,neighbor
+117,57,niece / nephew
+134,64,neighbor
+116,170,parent
+71,162,grandparent
+141,179,aunt / uncle
+142,134,work
+135,159,aunt / uncle
+153,134,household
+153,81,grandchild
+62,116,aunt / uncle
+149,169,neighbor
+131,121,sister / brother-in-law
+180,88,neighbor
+97,152,aunt / uncle
+55,62,sister / brother-in-law
+119,149,sister / brother-in-law
+157,158,sibling
+173,138,child
+139,141,cousin
+135,137,work
+142,154,household
+138,144,work
+115,139,partner
+156,169,school
+50,171,grandparent
+80,125,parent
+169,149,neighbor
+154,153,school
+64,113,aunt / uncle
+160,154,cousin
+168,169,sibling
+76,143,parent
+129,89,child
+129,161,parent
+115,181,aunt / uncle
+151,179,aunt / uncle
+127,170,household
+141,171,household
+145,80,neighbor
+128,50,neighbor
+177,182,school
+60,122,aunt / uncle
+163,133,niece / nephew
+147,148,sibling
+164,125,child
+133,72,niece / nephew
+143,75,niece / nephew
+165,164,school
+178,167,cousin
+121,100,niece / nephew
+176,104,grandchild
+128,124,sister / brother-in-law
+119,129,work
+181,175,cousin
+63,113,parent
+113,64,niece / nephew
+90,129,aunt / uncle
+166,172,neighbor
+105,103,sibling
+135,114,sister / brother-in-law
+57,55,sibling
+91,173,grandparent
+166,102,grandchild
+103,139,aunt / uncle
+160,182,school
+85,153,grandparent
+104,115,daughter / son-in-law
+88,113,aunt / uncle
+158,166,school
+94,99,partner
+113,139,sister / brother-in-law
+121,182,aunt / uncle
+180,172,cousin
+84,82,sibling
+155,166,school
+177,163,school
+154,175,school
+141,89,niece / nephew
+110,50,household
+176,181,cousin
+128,116,sister / brother-in-law
+167,166,sibling
+68,66,sibling
+119,118,sibling
+173,172,school
+128,110,neighbor
+123,97,niece / nephew
+128,56,mother / father-in-law
+153,64,neighbor
+115,96,mother / father-in-law
+176,179,school
+161,71,grandchild
+114,86,child
+90,103,sister / brother-in-law
+171,156,school
+57,148,parent
+134,159,aunt / uncle
+151,150,sibling
+106,109,sibling
+160,163,school
+170,168,household
+173,141,child
+51,50,sibling
+159,181,cousin
+125,165,household
+130,61,mother / father-in-law
+62,149,aunt / uncle
+156,172,school
+63,159,grandparent
+153,142,child
+57,126,aunt / uncle
+50,164,neighbor
+100,102,sibling
+127,126,cousin
+161,101,grandchild
+179,80,neighbor
+159,85,grandchild
+128,164,household
+178,176,school
+132,123,partner
+130,67,niece / nephew
+179,60,grandchild
+119,115,cousin
+145,126,work
+165,169,cousin
+127,143,work
+171,180,cousin
+152,116,work
+56,128,daughter / son-in-law
+88,68,sister / brother-in-law
+158,168,school
+116,146,cousin
+66,99,neighbor
+150,91,mother / father-in-law
+96,115,daughter / son-in-law
+159,162,cousin
+118,113,cousin
+170,168,sibling
+72,133,aunt / uncle
+141,137,sister / brother-in-law
+143,152,work
+132,99,mother / father-in-law
+159,160,school
+119,151,household
+132,166,aunt / uncle
+55,169,neighbor
+141,136,work
+180,150,child
+149,140,sister / brother-in-law
+112,136,aunt / uncle
+155,169,school
+134,114,sister / brother-in-law
+89,90,sibling
+135,72,niece / nephew
+125,132,cousin
+144,116,work
+60,50,sister / brother-in-law
+117,55,child
+159,114,household
+100,102,neighbor
+115,64,niece / nephew
+143,134,sister / brother-in-law
+158,152,household
+119,113,work
+136,143,work
+162,134,niece / nephew
+181,159,cousin
+134,144,sister / brother-in-law
+86,63,household
+180,153,school
+113,86,child
+156,152,child
+122,113,sister / brother-in-law
+175,180,school
+157,166,school
+127,116,work
+144,146,work
+154,161,cousin
+116,56,niece / nephew
+145,118,household
+80,164,grandparent
+98,152,parent
+181,63,grandchild
+146,125,cousin
+123,125,work
+180,154,school
+140,139,cousin
+149,120,work
+124,125,sibling
+178,179,school
+95,145,parent
+167,122,household
+75,77,sibling
+133,63,mother / father-in-law
+164,165,household
+124,165,aunt / uncle
+157,167,school
+88,87,sibling
+122,54,mother / father-in-law
+134,76,mother / father-in-law
+104,139,parent
+148,138,sister / brother-in-law
+131,125,cousin
+156,157,sibling
+127,146,work
+141,147,work
+116,149,cousin
+134,154,household
+115,120,sister / brother-in-law
+55,117,parent
+151,118,sister / brother-in-law
+57,97,neighbor
+159,163,school
+134,133,sibling
+79,107,sister / brother-in-law
+161,85,grandchild
+136,116,work
+147,126,work
+160,177,school
+182,120,child
+164,165,sibling
+151,177,household
+88,155,grandparent
+137,172,aunt / uncle
+98,158,grandparent
+61,169,grandparent
+63,139,daughter / son-in-law
+128,127,sibling
+115,139,household
+182,181,school
+141,110,mother / father-in-law
+147,127,work
+174,172,cousin
+116,168,parent
+107,106,sibling
+136,146,work
+161,160,school
+143,136,work
+182,175,cousin
+138,172,parent
+149,180,aunt / uncle
+162,154,cousin
+81,158,grandparent
+161,129,child
+65,113,aunt / uncle
+127,132,cousin
+123,128,work
+92,108,neighbor
+172,171,school
+96,139,parent
+89,161,grandparent
+125,116,cousin
+170,155,school
+138,173,parent
+149,136,cousin
+117,130,work
+159,174,school
+133,115,sister / brother-in-law
+146,145,work
+163,159,cousin
+94,99,household
+177,51,grandchild
+103,105,sibling
+127,168,household
+153,157,cousin
+147,146,sibling
+131,54,child
+137,52,niece / nephew
+122,101,niece / nephew
+125,146,cousin
+180,140,household
+121,142,work
+61,170,neighbor
+151,120,work
+66,67,sibling
+66,94,neighbor
+157,153,cousin
+142,157,aunt / uncle
+149,117,cousin
+174,181,school
+77,142,aunt / uncle
+132,94,mother / father-in-law
+143,147,work
+118,86,niece / nephew
+173,171,sibling
+154,64,neighbor
+141,131,work
+146,126,work
+56,146,aunt / uncle
+63,176,grandparent
+165,154,school
+122,126,work
+168,164,cousin
+128,170,aunt / uncle
+141,180,aunt / uncle
+125,127,cousin
+135,160,aunt / uncle
+161,163,school
+62,117,aunt / uncle
+113,172,neighbor
+155,56,neighbor
+131,178,aunt / uncle
+182,115,niece / nephew
+132,123,household
+126,147,work
+145,143,work
+170,157,school
+162,163,household
+137,112,niece / nephew
+90,101,sister / brother-in-law
+57,146,parent
+154,142,child
+175,139,household
+175,86,grandchild
+131,62,mother / father-in-law
+155,156,school
+106,107,sibling
+96,175,grandparent
+150,117,work
+62,120,parent
+119,149,work
+118,130,cousin
+133,134,sibling
+154,143,niece / nephew
+159,177,school
+110,52,sister / brother-in-law
+146,57,child
+83,97,neighbor
+80,126,parent
+161,133,niece / nephew
+64,114,aunt / uncle
+80,56,partner
+99,96,sister / brother-in-law
+117,146,cousin
+168,170,sibling
+76,144,parent
+100,177,neighbor
+115,182,aunt / uncle
+147,124,cousin
+151,180,aunt / uncle
+164,107,grandchild
+141,172,household
+119,88,child
+119,113,cousin
+86,118,aunt / uncle
+134,130,work
+181,182,school
+133,73,niece / nephew
+68,113,neighbor
+162,163,sibling
+172,110,grandchild
+140,142,work
+172,155,school
+147,141,work
+75,97,sister / brother-in-law
+151,136,cousin
+161,174,school
+158,144,child
+181,176,cousin
+63,114,parent
+149,120,cousin
+105,104,sibling
+136,110,child
+145,116,work
+85,154,grandparent
+88,114,aunt / uncle
+122,138,work
+180,173,cousin
+84,83,sibling
+155,167,school
+124,117,cousin
+166,54,grandchild
+149,137,work
+176,182,cousin
+61,130,daughter / son-in-law
+68,67,sibling
+170,169,school
+172,91,grandchild
+150,177,aunt / uncle
+165,126,niece / nephew
+176,180,school
+82,84,sibling
+145,146,work
+152,145,work
+162,135,child
+162,160,cousin
+155,168,school
+133,129,sister / brother-in-law
+125,56,child
+151,117,cousin
+179,149,niece / nephew
+64,153,neighbor
+62,60,sibling
+164,80,grandchild
+143,131,work
+61,56,sister / brother-in-law
+62,113,daughter / son-in-law
+142,152,cousin
+159,182,cousin
+86,176,grandparent
+131,80,niece / nephew
+143,81,child
+114,88,niece / nephew
+113,121,sister / brother-in-law
+62,150,aunt / uncle
+120,167,aunt / uncle
+130,121,work
+114,181,aunt / uncle
+63,160,grandparent
+137,141,sister / brother-in-law
+65,155,grandparent
+113,120,work
+172,166,school
+73,71,sibling
+101,122,aunt / uncle
+128,165,household
+147,143,work
+140,60,mother / father-in-law
+79,178,grandparent
+149,154,neighbor
+126,131,work
+174,57,grandchild
+145,127,work
+165,170,cousin
+148,136,sister / brother-in-law
+113,62,mother / father-in-law
+153,135,niece / nephew
+163,154,cousin
+97,75,sister / brother-in-law
+116,147,cousin
+64,134,neighbor
+182,113,household
+148,135,work
+135,134,sibling
+147,144,work
+113,181,parent
+139,176,household
+156,143,niece / nephew
+161,177,school
+155,118,child
+176,115,household
+179,91,grandchild
+159,161,school
+102,177,neighbor
+170,171,school
+122,141,work
+80,131,aunt / uncle
+73,85,sister / brother-in-law
+55,170,neighbor
+152,147,work
+112,137,aunt / uncle
+155,170,school
+147,83,child
+135,73,niece / nephew
+177,67,grandchild
+129,119,work
+103,179,grandparent
+170,172,school
+73,133,aunt / uncle
+162,90,neighbor
+75,81,sister / brother-in-law
+116,169,household
+83,137,daughter / son-in-law
+139,94,niece / nephew
+151,120,cousin
+99,66,neighbor
+181,160,cousin
+92,155,neighbor
+110,112,sibling
+141,118,work
+71,153,grandparent
+126,117,cousin
+116,57,niece / nephew
+94,95,sibling
+135,89,mother / father-in-law
+151,137,work
+120,114,sister / brother-in-law
+120,63,mother / father-in-law
+52,151,aunt / uncle
+146,126,cousin
+138,141,partner
+174,137,child
+172,169,school
+142,81,child
+177,151,household
+102,60,sister / brother-in-law
+132,79,child
+157,168,school
+116,131,work
+136,149,cousin
+99,98,sibling
+156,158,sibling
+98,144,daughter / son-in-law
+127,147,work
+126,147,cousin
+172,138,child
+158,81,grandchild
+154,169,neighbor
+98,75,partner
+171,91,grandchild
+124,131,cousin
+149,60,child
+84,174,neighbor
+149,151,work
+86,160,grandparent
+151,119,partner
+150,151,sibling
+121,140,work
+166,131,child
+133,161,aunt / uncle
+175,159,cousin
+180,179,household
+130,118,cousin
+165,125,household
+169,170,household
+131,138,work
+75,98,partner
+150,134,work
+90,162,neighbor
+171,166,school
+158,142,niece / nephew
+118,177,aunt / uncle
+114,64,niece / nephew
+137,173,aunt / uncle
+100,122,aunt / uncle
+126,128,cousin
+179,171,cousin
+157,152,household
+148,119,work
+114,139,sister / brother-in-law
+113,118,cousin
+174,148,child
+158,156,household
+56,55,sibling
+80,56,household
+159,134,niece / nephew
+175,178,school
+167,178,cousin
+119,130,cousin
+119,177,parent
+55,130,daughter / son-in-law
+86,182,grandparent
+178,131,niece / nephew
+131,120,sister / brother-in-law
+149,119,sister / brother-in-law
+152,131,work
+172,174,cousin
+128,124,cousin
+65,114,aunt / uncle
+169,170,sibling
+61,51,sister / brother-in-law
+120,122,sibling
+148,124,cousin
+125,164,parent
+143,76,child
+144,153,aunt / uncle
+137,174,household
+170,156,school
+114,176,aunt / uncle
+151,50,niece / nephew
+149,137,cousin
+129,85,mother / father-in-law
+128,125,cousin
+114,120,sister / brother-in-law
+173,110,grandchild
+127,61,neighbor
+51,140,daughter / son-in-law
+163,135,child
+133,115,work
+153,158,cousin
+143,118,work
+169,173,school
+144,143,sibling
+125,147,cousin
+57,61,sister / brother-in-law
+167,157,school
+56,117,aunt / uncle
+94,132,daughter / son-in-law
+138,136,sibling
+142,158,aunt / uncle
+118,131,work
+144,126,work
+167,54,grandchild
+79,56,sister / brother-in-law
+174,182,school
+126,118,work
+118,87,niece / nephew
+87,115,aunt / uncle
+171,169,school
+173,172,sibling
+173,91,grandchild
+126,131,cousin
+179,180,household
+56,147,aunt / uncle
+71,134,parent
+168,165,cousin
+113,137,work
+123,99,child
+180,149,niece / nephew
+149,135,work
+50,149,aunt / uncle
+174,83,grandchild
+146,122,work
+103,141,parent
+168,116,household
+115,63,child
+71,72,sibling
+165,124,niece / nephew
+170,158,school
+131,123,sister / brother-in-law
+114,160,household
+156,161,neighbor
+156,144,household
+57,147,parent
+71,159,grandparent
+134,150,work
+182,86,grandchild
+52,60,sister / brother-in-law
+97,57,neighbor
+131,122,work
+173,166,school
+136,51,niece / nephew
+125,57,niece / nephew
+62,121,parent
+133,135,sibling
+103,147,neighbor
+154,144,niece / nephew
+115,118,cousin
+179,180,sibling
+161,134,niece / nephew
+179,153,school
+166,168,school
+136,52,niece / nephew
+117,147,cousin
+142,76,child
+135,162,household
+147,125,cousin
+131,152,work
+156,166,school
+157,143,niece / nephew
+153,161,cousin
+150,179,parent
+76,77,sibling
+164,153,school
+180,91,grandchild
+79,124,aunt / uncle
+52,138,aunt / uncle
+55,56,sibling
+166,122,household
+130,140,work
+172,156,school
+148,83,child
+155,88,grandchild
+181,114,niece / nephew
+171,174,cousin
+149,121,cousin
+50,151,aunt / uncle
+145,139,cousin
+121,131,sister / brother-in-law
+118,80,neighbor
+179,177,cousin
+63,86,partner
+124,55,niece / nephew
+150,50,niece / nephew
+107,125,daughter / son-in-law
+170,61,neighbor
+143,154,aunt / uncle
+169,157,school
+136,112,niece / nephew
+79,54,partner
+138,141,household
+114,85,mother / father-in-law
+142,135,sister / brother-in-law
+88,118,parent
+165,127,niece / nephew
+145,147,work
+177,160,school
+152,146,work
+56,83,sister / brother-in-law
+114,134,sister / brother-in-law
+179,164,school
+158,98,grandchild
+138,152,work
+64,154,neighbor
+173,169,school
+114,133,work
+124,148,cousin
+127,116,partner
+98,75,household
+61,57,sister / brother-in-law
+119,155,aunt / uncle
+125,50,neighbor
+138,171,household
+148,174,household
+56,118,neighbor
+160,162,cousin
+155,90,neighbor
+51,136,aunt / uncle
+151,119,household
+114,182,aunt / uncle
+152,157,parent
+129,122,cousin
+52,149,aunt / uncle
+116,130,sister / brother-in-law
+182,166,cousin
+121,120,sibling
+118,145,work
+150,60,child
+104,130,aunt / uncle
+60,140,daughter / son-in-law
+126,116,cousin
+75,98,household
+92,145,neighbor
+156,75,grandchild
+117,169,aunt / uncle
+176,159,cousin
+152,118,work
+79,127,aunt / uncle
+137,83,mother / father-in-law
+51,110,sister / brother-in-law
+140,105,niece / nephew
+146,137,sister / brother-in-law
+77,152,aunt / uncle
+113,182,parent
+169,168,school
+178,79,grandchild
+105,130,parent
+131,166,parent
+177,62,neighbor
+91,162,neighbor
+150,149,sibling
+99,97,sibling
+146,136,work
+176,63,grandchild
+126,146,cousin
+51,61,sister / brother-in-law
+125,110,neighbor
+80,132,aunt / uncle
+106,127,aunt / uncle
+118,126,work
+131,136,work
+164,126,niece / nephew
+150,116,cousin
+143,157,aunt / uncle
+129,120,work
+103,180,grandparent
+114,119,cousin
+137,171,aunt / uncle
+100,120,aunt / uncle
+170,173,school
+159,63,grandchild
+156,153,cousin
+178,154,school
+129,156,neighbor
+128,79,niece / nephew
+162,91,neighbor
+167,173,school
+142,143,sibling
+139,175,neighbor
+116,170,household
+57,83,partner
+135,148,work
+123,131,sister / brother-in-law
+62,51,sister / brother-in-law
+175,176,school
+136,141,sister / brother-in-law
+161,162,household
+145,123,cousin
+154,164,school
+119,51,mother / father-in-law
+80,57,sister / brother-in-law
+168,127,child
+172,170,school
+119,66,niece / nephew
+117,130,partner
+144,143,work
+154,158,cousin
+102,61,sister / brother-in-law
+172,173,household
+105,68,sister / brother-in-law
+125,127,sister / brother-in-law
+181,113,household
+126,148,cousin
+135,129,work
+152,143,cousin
+129,161,household
+113,63,child
+138,136,work
+124,132,cousin
+182,172,neighbor
+91,150,daughter / son-in-law
+182,102,grandchild
+101,129,parent
+64,65,sibling
+145,67,mother / father-in-law
+169,171,school
+82,97,neighbor
+153,154,school
+161,162,sibling
+175,160,cousin
+177,174,school
+71,142,daughter / son-in-law
+120,100,niece / nephew
+130,119,cousin
+175,104,grandchild
+169,165,cousin
+120,117,cousin
+81,76,partner
+104,103,sibling
+67,151,daughter / son-in-law
+158,157,school
+161,163,sibling
+161,135,household
+87,113,aunt / uncle
+171,167,school
+172,173,sibling
+169,116,household
+163,156,neighbor
+160,176,cousin
+164,110,neighbor
+179,172,cousin
+176,96,grandchild
+110,173,grandparent
+57,80,sister / brother-in-law
+72,73,sibling
+160,174,school
+113,119,cousin
+159,135,niece / nephew
+87,114,aunt / uncle
+114,139,work
+116,143,work
+145,63,niece / nephew
+161,159,cousin
+71,133,parent
+127,80,niece / nephew
+54,132,parent
+121,117,work
+175,182,cousin
+124,80,child
+117,127,sister / brother-in-law
+125,55,niece / nephew
+103,140,parent
+102,167,grandparent
+61,149,aunt / uncle
+144,154,aunt / uncle
+121,166,aunt / uncle
+142,71,mother / father-in-law
+121,102,child
+138,140,sister / brother-in-law
+88,145,daughter / son-in-law
+54,123,daughter / son-in-law
+163,161,household
+61,60,sibling
+50,112,sister / brother-in-law
+63,64,sibling
+135,163,parent
+181,120,child
+173,156,school
+63,86,household
+165,128,household
+153,134,child
+153,159,cousin
+113,68,neighbor
+182,159,school
+144,157,parent
+115,133,work
+177,179,cousin
+79,54,household
+147,91,neighbor
+167,158,school
+63,145,aunt / uncle
+103,91,partner
+139,175,parent
+60,117,aunt / uncle
+113,160,aunt / uncle
+165,50,neighbor
+89,141,aunt / uncle
+138,137,sibling
+157,142,niece / nephew
+144,127,work
+137,150,cousin
+162,129,household
+116,107,mother / father-in-law
+117,116,sibling
+62,131,daughter / son-in-law
+127,116,household
+120,172,neighbor
+171,170,school
+154,178,school
+163,89,grandchild
+157,156,household
+126,132,cousin
+179,150,child
+76,154,grandparent
+171,173,household
+180,164,school
+124,116,cousin
+165,56,grandchild
+101,100,sibling
+120,137,work
+169,155,school
+147,82,niece / nephew
+50,150,aunt / uncle
+120,150,cousin
+86,126,neighbor
+142,133,sister / brother-in-law
+151,88,mother / father-in-law
+167,182,cousin
+116,146,work
+82,83,sibling
+145,56,neighbor
+155,67,grandchild
+143,142,sibling
+154,76,grandchild
+173,167,school
+171,140,niece / nephew
+140,117,work
+122,121,sibling
+113,120,partner
+115,119,cousin
+129,120,cousin
+145,96,niece / nephew
+157,156,sibling
+174,159,school
+179,154,school
+171,173,sibling
+159,176,cousin
+107,79,sister / brother-in-law
+144,138,work
+121,150,work
+63,120,daughter / son-in-law
+86,67,sister / brother-in-law
+156,167,school
+104,175,grandparent
+182,162,school
+150,180,parent
+86,133,daughter / son-in-law
+129,137,work
+55,146,aunt / uncle
+96,104,partner
+146,117,cousin
+126,80,child
+152,75,child
+122,60,niece / nephew
+136,127,work
+148,55,niece / nephew
+79,125,aunt / uncle
+55,57,sibling
+60,120,aunt / uncle
+96,99,sister / brother-in-law
+120,60,niece / nephew
+149,150,sibling
+57,83,household
+127,138,work
+103,89,sister / brother-in-law
+180,67,neighbor
+88,63,sister / brother-in-law
+181,155,neighbor
+160,182,cousin
+123,178,parent
+168,169,household
+60,119,daughter / son-in-law
+91,171,grandparent
+160,133,household
+169,158,school
+102,181,grandparent
+105,141,aunt / uncle
+80,118,neighbor
+117,124,cousin
+117,130,household
+115,160,aunt / uncle
+88,119,parent
+60,61,sibling
+126,63,neighbor
+100,62,sister / brother-in-law
+177,161,school
+116,168,household
+118,116,work
+169,127,child
+174,161,school
+61,127,daughter / son-in-law
+175,115,neighbor
+59,58,sibling
+173,170,school
+172,141,household
+123,95,niece / nephew
+166,120,niece / nephew
+127,128,sibling
+178,99,grandchild
+138,172,household
+130,117,work
+160,163,cousin
+51,137,aunt / uncle
+167,172,school
+175,114,niece / nephew
+170,116,household
+136,138,work
+160,161,school
+52,150,aunt / uncle
+126,128,sister / brother-in-law
+174,162,school
+160,114,household
+182,167,cousin
+118,146,work
+132,131,sibling
+144,141,work
+167,166,household
+154,156,cousin
+140,151,sister / brother-in-law
+138,173,household
+156,170,school
+57,124,aunt / uncle
+105,66,sister / brother-in-law
+81,76,household
+127,124,cousin
+140,150,work
+173,140,niece / nephew
+66,118,aunt / uncle
+76,134,daughter / son-in-law
+176,160,cousin
+79,128,aunt / uncle
+180,178,school
+118,147,work
+130,103,niece / nephew
+166,181,neighbor
+50,137,parent
+120,151,work
+64,63,sibling
+85,162,grandparent
+121,117,cousin
+127,141,work
+169,61,grandchild
+88,66,sister / brother-in-law
+105,96,sister / brother-in-law
+113,115,sibling
+171,138,household
+51,62,sister / brother-in-law
+166,62,grandchild
+139,123,cousin
+56,179,neighbor
+106,128,aunt / uncle
+125,107,mother / father-in-law
+121,134,work
+56,125,parent
+164,127,niece / nephew
+167,122,child
+143,158,aunt / uncle
+122,79,mother / father-in-law
+116,61,child
+157,98,grandchild
+62,101,sister / brother-in-law
+156,154,cousin
+116,152,work
+128,80,niece / nephew
+141,90,niece / nephew
+135,149,work
+181,163,school
+80,107,sister / brother-in-law
+127,122,work
+166,113,neighbor
+154,165,school
+136,50,child
+136,141,work
+129,101,child
+103,91,household
+145,92,neighbor
+157,173,school
+102,131,daughter / son-in-law
+154,134,child
+81,153,grandparent
+89,102,sister / brother-in-law
+153,143,niece / nephew
+77,75,sibling
+165,176,school
+84,57,sister / brother-in-law
+163,153,cousin
+54,131,parent
+130,150,work
+147,152,work
+123,145,cousin
+135,161,parent
+152,144,cousin
+90,141,aunt / uncle
+166,167,household
+118,88,child
+169,172,school
+138,150,cousin
+127,144,work
+141,145,work
+136,122,work
+171,141,household
+125,128,work
+147,116,cousin
+79,167,grandparent
+107,169,grandparent
+102,122,parent
+58,59,sibling
+137,138,sibling
+149,148,work
+159,163,cousin
+118,114,cousin
+163,181,school
+68,118,aunt / uncle
+121,150,cousin
+171,168,school
+156,157,household
+140,134,work
+138,118,work
+113,120,household
+62,167,grandparent
+100,62,neighbor
+104,105,sibling
+131,79,child
+166,167,sibling
+68,119,aunt / uncle
+173,138,household
+98,156,grandparent
+91,147,neighbor
+141,126,work
+62,55,sister / brother-in-law
+149,177,aunt / uncle
+145,64,niece / nephew
+161,160,cousin
+131,122,partner
+165,178,school
+179,140,child
+96,104,household
+149,129,work
+142,130,work
+136,144,work
+109,108,sibling
+167,131,household
+170,107,grandchild
+164,168,cousin
+163,162,school
+113,87,niece / nephew
+98,99,sibling
+145,138,work
+55,127,daughter / son-in-law
+178,94,grandchild
+144,147,work
+61,150,aunt / uncle
+81,156,grandparent
+51,179,grandparent
+179,141,niece / nephew
+165,179,school
+56,80,partner
+92,56,neighbor
+164,125,household
+181,172,neighbor
+181,102,grandchild
+160,159,household
+71,85,partner
+182,160,school
+171,50,grandchild
+144,158,parent
+133,113,sister / brother-in-law
+140,129,cousin
+84,146,aunt / uncle
+175,139,child
+139,104,child
+141,104,niece / nephew
+176,153,school
+113,181,household
+87,86,sibling
+128,80,mother / father-in-law
+177,118,niece / nephew
+148,84,neighbor
+56,145,neighbor
+122,116,cousin
+130,134,work
+147,136,work
+139,105,niece / nephew
+129,140,cousin
+54,80,sister / brother-in-law
+96,145,aunt / uncle
+122,181,aunt / uncle
+180,165,school
+182,121,niece / nephew
+143,145,work
+160,159,sibling
+173,141,household
+120,151,cousin
+167,120,niece / nephew
+117,122,cousin
+153,109,neighbor
+116,147,work
+151,148,work
+128,168,aunt / uncle
+170,55,neighbor
+62,102,partner
+176,114,niece / nephew
+114,133,partner
+103,171,grandparent
+130,116,sister / brother-in-law
+173,168,school
+152,81,mother / father-in-law
+176,175,school
+126,145,work
+145,141,work
+162,161,household
+115,159,aunt / uncle
+173,171,household
+166,173,school
+129,121,cousin
+177,60,grandchild
+170,61,grandchild
+118,145,partner
+174,160,school
+84,148,aunt / uncle
+143,126,work
+166,79,grandchild
+129,133,sister / brother-in-law
+169,117,niece / nephew
+65,96,sister / brother-in-law
+101,135,daughter / son-in-law
+139,63,mother / father-in-law
+65,63,sibling
+156,168,school
+87,88,sibling
+104,176,grandparent
+182,163,school
+151,129,work
+55,147,aunt / uncle
+140,179,parent
+149,113,work
+115,87,niece / nephew
+76,142,parent
+148,147,sibling
+122,61,niece / nephew
+148,56,niece / nephew
+61,116,parent
+137,50,child
+167,62,grandchild
+79,126,aunt / uncle
+147,138,work
+60,121,aunt / uncle
+68,120,neighbor
+145,122,work
+114,63,child
+162,89,grandchild
+120,61,niece / nephew
+149,151,sibling
+146,56,niece / nephew
+103,90,sister / brother-in-law
+162,161,sibling
+122,166,parent
+115,88,niece / nephew
+164,56,grandchild
+181,86,grandchild
+177,150,niece / nephew
+51,60,partner
+159,133,child
+168,170,household
+124,57,niece / nephew
+173,50,grandchild
+150,52,niece / nephew
+133,86,mother / father-in-law
+121,116,cousin
+63,126,neighbor
+101,91,sister / brother-in-law
+133,153,aunt / uncle
+143,156,aunt / uncle
+152,143,sister / brother-in-law
+145,152,work
+102,182,grandparent
+170,166,school
+164,180,school
+156,152,household
+99,75,sister / brother-in-law
+151,60,child
+175,176,sibling
+117,125,cousin
+60,62,sibling
+116,61,neighbor
+119,67,child
+182,113,child
+125,128,cousin
+55,116,neighbor
+181,161,school
+139,133,work
+166,178,cousin
+117,142,work
+145,144,work
+119,177,household
+62,100,sister / brother-in-law
+57,137,daughter / son-in-law
+151,149,sibling
+67,130,aunt / uncle
+89,129,parent
+86,87,sibling
+174,163,school
+113,175,aunt / uncle
+118,68,niece / nephew
+60,179,grandparent
+50,148,daughter / son-in-law
+125,164,household
+89,100,sister / brother-in-law
+145,155,parent
+105,67,sister / brother-in-law
+135,129,partner
+127,125,cousin
+141,173,parent
+174,84,neighbor
+66,119,aunt / uncle
+129,91,niece / nephew
+148,116,cousin
+101,120,aunt / uncle
+178,175,school
+139,114,work
+166,182,neighbor
+50,138,parent
+168,173,school
+85,129,daughter / son-in-law
+165,168,cousin
+85,163,grandparent
+56,61,sister / brother-in-law
+120,102,child
+182,120,household
+166,157,school
+158,157,sibling
+153,133,niece / nephew
+175,176,neighbor
+141,143,work
+182,166,neighbor
+150,121,cousin
+113,148,work
+64,145,aunt / uncle
+102,120,parent
+79,132,parent
+137,136,sibling
+79,122,daughter / son-in-law
+90,140,aunt / uncle
+105,117,daughter / son-in-law
+159,161,cousin
+94,104,sister / brother-in-law
+131,122,household
+63,115,parent
+138,149,cousin
+151,113,work
+128,125,work
+155,145,child
+55,168,neighbor
+140,91,child
+137,119,work
+79,123,daughter / son-in-law
+147,122,work
+181,166,cousin
+65,145,parent
+56,80,household
+109,153,neighbor
+160,143,neighbor
+161,129,household
+145,65,child
+103,130,aunt / uncle
+182,68,neighbor
+91,105,sister / brother-in-law
+121,149,cousin
+166,181,cousin
+115,176,parent
+118,65,mother / father-in-law
+116,126,cousin
+71,85,household
+182,177,school
+80,128,daughter / son-in-law
+113,129,work
+180,141,niece / nephew
+135,153,aunt / uncle
+145,95,child
+102,166,grandparent
+134,142,work
+141,116,work
+81,154,grandparent
+152,126,work
+80,54,sister / brother-in-law
+77,76,sibling
+151,135,work
+127,55,neighbor
+141,129,cousin
+160,134,niece / nephew
+163,129,child
+109,107,sibling
+172,167,school
+176,139,child
+99,94,partner
+75,76,sibling
+88,86,sibling
+150,179,household
+134,153,parent
+138,151,cousin
+141,146,work
+150,141,sister / brother-in-law
+147,117,cousin
+179,51,grandchild
+150,140,work
+107,170,grandparent
+113,151,work
+125,79,niece / nephew
+113,159,aunt / uncle
+178,132,household
+62,102,household
+55,116,parent
+114,133,household
+155,119,niece / nephew
+67,87,sister / brother-in-law
+163,182,school
+172,103,grandchild
+144,76,child
+121,151,cousin
+156,158,household
+139,103,niece / nephew
+154,142,household
+171,172,household
+174,177,school
+118,145,household
+168,157,school
+144,77,niece / nephew
+164,175,school
+141,127,work
+152,144,partner
+113,133,sister / brother-in-law
+146,174,aunt / uncle
+107,127,parent
+123,94,child
+62,100,neighbor
+167,79,grandchild
+150,103,mother / father-in-law
+164,169,cousin
+113,88,niece / nephew
+126,143,work
+162,153,cousin
+128,131,cousin
+71,154,grandparent
+122,120,sibling
+166,171,school
+51,180,grandparent
+176,113,niece / nephew
+152,157,household
+165,180,school
+122,152,work
+174,138,niece / nephew
+60,150,parent
+138,50,child
+171,172,sibling
+51,60,household
+65,94,sister / brother-in-law
+159,175,cousin
+181,118,neighbor
+143,160,neighbor
+179,103,grandchild
+122,62,child
+61,168,neighbor
+140,130,cousin
+84,147,aunt / uncle
+97,82,neighbor
+138,51,niece / nephew
+159,113,niece / nephew
+50,172,grandparent
+101,162,grandparent
+162,181,school
+154,153,household
+131,147,work
+103,104,sibling
+157,158,school
+153,156,cousin
+85,134,parent
+174,50,grandchild
+113,182,household
+142,64,neighbor
+50,60,sister / brother-in-law
+131,166,household
+61,169,neighbor
+175,63,grandchild
+122,117,cousin
+82,148,aunt / uncle
+95,155,grandparent
+146,83,child
+125,124,sibling
+179,178,school
+142,156,aunt / uncle
+165,164,household
+114,115,sibling
+148,110,mother / father-in-law
+122,182,aunt / uncle
+138,174,aunt / uncle
+149,116,cousin
+132,124,cousin
+182,122,niece / nephew
+126,116,work
+143,146,work
+117,60,niece / nephew
+164,178,school
+81,144,parent
+81,134,daughter / son-in-law
+146,84,niece / nephew
+177,149,niece / nephew
+127,79,niece / nephew
+135,101,mother / father-in-law
+169,107,grandchild
+148,120,work
+151,149,work
+154,81,grandchild
+140,89,niece / nephew
+113,135,work
+135,129,household
+92,118,neighbor
+154,153,sibling
+103,138,daughter / son-in-law
+76,152,daughter / son-in-law
+130,117,partner
+126,146,work
+117,140,work
+152,141,work
+138,148,sister / brother-in-law
+153,164,school
+173,172,household
+140,171,aunt / uncle
+164,50,neighbor
+171,103,grandchild
+96,65,sister / brother-in-law
+165,164,sibling
+150,138,cousin
+159,115,niece / nephew
+115,133,sister / brother-in-law
+129,134,sister / brother-in-law
+118,66,niece / nephew
+60,177,grandparent
+57,117,aunt / uncle
+85,72,sister / brother-in-law
+65,64,sibling
+153,165,school
+140,150,partner
+83,56,sister / brother-in-law
+84,137,neighbor
+130,105,child
+99,95,sister / brother-in-law
+140,180,parent
+61,117,parent
+164,128,child
+62,182,grandparent
+101,62,sister / brother-in-law
+126,127,work
+95,104,sister / brother-in-law
+168,171,school
+76,75,sibling
+146,148,sibling
+166,155,school
+145,119,sister / brother-in-law
+91,89,sibling
+122,136,work
+122,167,parent
+129,90,niece / nephew
+141,91,child
+181,121,niece / nephew
+146,131,work
+132,127,cousin
+133,154,aunt / uncle
+115,104,mother / father-in-law
+128,123,work
+170,167,school
+80,127,aunt / uncle
+117,126,cousin
+135,113,work
+152,143,work
+175,96,grandchild
+94,123,parent
+159,160,household
+122,150,cousin
+90,155,neighbor
+67,177,grandparent
+115,114,work
+55,124,aunt / uncle
+144,98,mother / father-in-law
+134,162,aunt / uncle
+174,137,household
+99,94,household
+170,168,school
+151,62,niece / nephew
+178,123,child
